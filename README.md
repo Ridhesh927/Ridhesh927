@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Ridhesh%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Engineering%20Student&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%" />
 <br/>
-Show Image
 <br/>
 </div>
 
@@ -126,9 +125,6 @@ Show Image
 
 🤝 Let's Connect
 <div align="center">
-Show Image
-Show Image
-Show Image
 </div>
 <br/>
 <div align="center">
