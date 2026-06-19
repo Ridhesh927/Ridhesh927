@@ -5,14 +5,25 @@
 </div>
 
 🧑‍💻 About Me
-javascriptconst ridhesh = {
-  education:   "B.E. Computer Science Engineering @ DES, Pune  |  CGPA: 8.55",
+
+const ridhesh = {
+  education: "B.E. Computer Science Engineering @ DES, Pune | CGPA: 8.55",
   currentRole: "MERN Stack Intern @ UpToSkills (Mar–Jun 2026)",
-  prevRole:    "MERN Stack Intern @ Amdox Technologies (Jan–Mar 2026)",
-  interests:   ["Full-Stack Dev", "AI/ML", "Game Dev (Unity → Unreal Engine)"],
-  learning:    ["DSA", "TypeScript", "Next.js", "System Design"],
-  funFact:     "I trace algorithms on paper before I code them 📝"
+  prevRole: "MERN Stack Intern @ Amdox Technologies (Jan–Mar 2026)",
+  interests: [
+    "Full-Stack Dev",
+    "AI/ML",
+    "Game Dev (Unity → Unreal Engine)"
+  ],
+  learning: [
+    "DSA",
+    "TypeScript",
+    "Next.js",
+    "System Design"
+  ],
+  funFact: "I trace algorithms on paper before I code them 📝"
 };
+
 
 🛠️ Tech Stack & Skills
 <div align="center">
