@@ -4,7 +4,7 @@
 <br/>
 </div>
 
-🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 const ridhesh = {
   education: "B.E. Computer Science Engineering @ DES, Pune | CGPA: 8.55",
