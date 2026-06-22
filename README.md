@@ -25,44 +25,13 @@ const ridhesh = {
 };
 
 
-🛠️ Tech Stack & Skills
-<div align="center">
-🌐 Frontend
-Show Image
-Show Image
-Show Image
-Show Image
-⚙️ Backend
-Show Image
-Show Image
-Show Image
-🗄️ Database & DevOps
-Show Image
-Show Image
-Show Image
-Show Image
-🤖 AI / ML
-Show Image
-Show Image
-Show Image
-Show Image
-🔧 Tools
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
+
+
 
 🚀 Featured Projects
 🔍 AI-Powered Deepfake Detection
 
-Cyber Fraud Prevention using Deep Learning
 
-
-Trained on DF40 and FaceForensics++ datasets
-Models: ResNet50 + EfficientNet-B0 ensemble
-Aimed at real-world cyber fraud detection
-📄 Research paper in progress (IEEE/Springer target)
 
 
 🛡️ HOD-YOLO — Harmful Object Detection
@@ -97,15 +66,6 @@ Role-based subdomain routing for workers vs users
 Full authentication & booking workflow
 
 
-☁️ Smart Campus Air Quality Monitor
-
-IoT Simulation on AWS (No Hardware Required)
-
-
-Python-based sensor simulation feeding AWS Lambda
-Data stored in DynamoDB, alerts via SNS
-Real-time Chart.js dashboard
-Cloud Computing academic project
 
 
 📈 My Learning Journey
