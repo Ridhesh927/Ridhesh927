@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Ridhesh927">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Full-Stack+Developer;AI+%26+Cybersecurity+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Full-Stack+Developer;AI+%26+Data+Science+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,9 +25,9 @@
 ### 👨‍💻 About Me
 
 * 🎓 **Academic Focus:** I am a Computer Science student currently mastering core theoretical subjects, including Machine Learning, Computer Vision, and Theory of Computation, while actively applying these concepts to real-world applications.
-* 💻 **Technical Expertise:** Specializing in **Full-Stack Web Development**, **AI Integration**, and secure application architecture.
+* 💻 **Technical Expertise:** Specializing in **Full-Stack Web Development**, **AI Integration**, and **Data-Driven Application Architecture**.
 * 🤝 **Collaboration & Research:** Experienced in collaborating with cross-functional teammates on both advanced software engineering projects and published Data Science research.
-* 🚀 **Mission:** Building secure, scalable, and highly optimized platforms that solve complex user problems.
+* 🚀 **Mission:** Building intelligent, scalable, and highly optimized platforms that solve complex user problems.
 
 ---
 
