@@ -94,11 +94,11 @@ Beyond my primary focus areas, I maintain a diverse portfolio of public reposito
 
 <p align="center">
   <a href="https://github.com/Ridhesh927">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ridhesh927&show_icons=true&theme=tokyonight&hide_border=true" alt="Ridhesh's GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Ridhesh927&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Ridhesh927">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridhesh927&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridhesh927&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   </a>
 </p>
