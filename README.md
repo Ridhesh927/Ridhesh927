@@ -93,12 +93,42 @@ Beyond my primary focus areas, I maintain a diverse portfolio of public reposito
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Ridhesh927">
-   <img src="https://github-readme-stats.vercel.app/api?username=Ridhesh927&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  </a>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ridhesh927&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=contribs&include_all_commits=true" />
 </p>
+
 <p align="center">
-  <a href="https://github.com/Ridhesh927">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridhesh927&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  </a>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridhesh927&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ridhesh927&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 💡 Quick Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ridhesh927&style=flat-square&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/Ridhesh927?style=flat-square&color=blue)](https://github.com/Ridhesh927)
+
+---
+
+### 🎯 Currently Working On
+
+* Advancing full-stack capabilities with MERN stack optimization
+* Exploring AI/ML integration in real-world applications
+* Building scalable backend systems and APIs
+
+---
+
+### 📬 Get In Touch
+
+Feel free to reach out! I'm always open to collaboration, discussions about tech, or just saying hi.
+
+- 💼 **LinkedIn:** [ridhesh-mahajan](https://www.linkedin.com/in/ridhesh-mahajan/)
+- 🐙 **GitHub:** [Ridhesh927](https://github.com/Ridhesh927)
+- 📧 **Email:** [Check LinkedIn for contact]
+
+---
+
+<p align="center">Made with ❤️ by Ridhesh Mahajan</p>
