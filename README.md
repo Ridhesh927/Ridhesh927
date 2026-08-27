@@ -92,24 +92,15 @@ Beyond my primary focus areas, I maintain a diverse portfolio of public reposito
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ridhesh927&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=contribs&include_all_commits=true" />
-</p>
+**Explore my work directly on GitHub:**
+- 🔗 Visit my [GitHub Profile](https://github.com/Ridhesh927) to see live contribution graphs, activity streams, and detailed repository analytics
+- 📈 My repositories showcase projects in **JavaScript, TypeScript, Python, and Java**
+- 🎯 Most active in **Full-Stack Development** and **AI/ML applications**
 
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridhesh927&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ridhesh927&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 💡 Quick Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ridhesh927&style=flat-square&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/Ridhesh927?style=flat-square&color=blue)](https://github.com/Ridhesh927)
+**Quick Navigation:**
+- ⭐ [Starred Repositories](https://github.com/Ridhesh927?tab=stars)
+- 📦 [All Repositories](https://github.com/Ridhesh927?tab=repositories)
+- 🔁 [Recent Activity](https://github.com/Ridhesh927)
 
 ---
 
