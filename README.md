@@ -118,7 +118,7 @@ Feel free to reach out! I'm always open to collaboration, discussions about tech
 
 - 💼 **LinkedIn:** [ridhesh-mahajan](https://www.linkedin.com/in/ridhesh-mahajan/)
 - 🐙 **GitHub:** [Ridhesh927](https://github.com/Ridhesh927)
-- 📧 **Email:** [Check LinkedIn for contact]
+- 📧 **Email:** ridheshmahajan.despu.cse@gmail.com
 
 ---
 
