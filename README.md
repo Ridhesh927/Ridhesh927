@@ -40,8 +40,9 @@
 ### 🛠️ Tech Stack & Languages
 
 * **Languages:** JavaScript, TypeScript, Python, Java, PHP, HTML5, CSS3
-* **Frameworks & Libraries:** React, Node.js (Expo for mobile exploration)
-* **Databases & Tools:** MySQL, Git, Data Modeling
+* **Frameworks & Libraries:** React, Node.js, Spring Boot (Expo for mobile exploration)
+* **Databases & Tools:** MySQL, MongoDB, Git, Data Modeling
+* **Architectures:** REST APIs, Microservices, Real-time Systems
 
 ---
 
@@ -51,12 +52,51 @@ These repositories represent my most significant technical contributions, focuse
 
 | Project Name | Tech Stack | Description & Links |
 | :--- | :---: | :--- |
+| **[Eminence](https://github.com/Ridhesh927/Eminence)** | `MERN` | Dual-channel transport booking platform with Voice IVR helpline and intelligent driver allocation. |
+| **[GitFlow Analysis](https://github.com/Ridhesh927/GitFlow-Analysis)** | `Spring Boot, Java` | Advanced Git repository analyzer measuring code churn, contributor metrics, and development insights. |
 | **[ProctorFlow](https://github.com/Ridhesh927/ProctorFlow)** | `TypeScript` | Advanced proctoring flow and examination management system. |
 | **[CrewFlow](https://github.com/Ridhesh927/CrewFlow)** | `JavaScript` | Comprehensive crew and task management workflow application. |
 | **[AI-ChatBot](https://github.com/Ridhesh927/AI-ChatBot)** | `TypeScript` | Intelligent conversational agent focused on seamless user interaction. |
 | **[Apna_Worker](https://github.com/Ridhesh927/Apna_Worker)** | `JavaScript` | Multi-tier platform seamlessly connecting workers and users for job fulfillment. |
 | **[Ai-Mentor](https://github.com/Ridhesh927/Ai-Mentor)** | `JavaScript` | AI-driven mentoring platform designed to guide and assist users. |
 | **[InternOps](https://github.com/Ridhesh927/InternOps)** | `JavaScript` | Operational management tools developed during internship contributions. |
+
+---
+
+### 🚀 Featured Projects Deep Dive
+
+#### **Eminence — Dual-Channel Transport Booking Platform**
+A revolutionary solution for tempo and local transport services in Pune addressing real-world inefficiencies.
+
+**The Problem:**
+Local transport businesses rely on manual phone bookings with repeated data entry, poor record-keeping, and inefficient fleet management.
+
+**The Solution:**
+- 🖥️ **Website Booking** — for new/casual customers  
+- ☎️ **Voice IVR Helpline** — for repeat customers with zero re-entry of details  
+- 🚚 **Smart Driver Allocation** — nearest driver assigned in <500ms  
+- 📱 **Multi-channel Confirmations** — SMS, WhatsApp, Voice
+
+**Key Innovation:** Repeat customers call the helpline → System recognizes them by phone → Auto-fetches saved addresses → Complete booking via voice without repeating information.
+
+**Tech Stack:** MERN (MongoDB, Express, React, Node.js)
+
+---
+
+#### **GitFlow Analysis — Development Metrics & Repository Intelligence**
+A Spring Boot application that deep-dives into Git repositories to uncover contributor patterns and code quality metrics.
+
+**Capabilities:**
+- 📊 Identify and analyze contributor patterns  
+- 📈 Measure code churn and development velocity  
+- 🎯 Visualize task distribution across team members  
+- 🔍 Generate actionable insights for project management
+
+**Prerequisites:**
+- Java 21 or higher  
+- Maven 3.6.3 or higher
+
+**Tech Stack:** Spring Boot, Java, Git API integration
 
 ---
 
@@ -95,7 +135,7 @@ Beyond my primary focus areas, I maintain a diverse portfolio of public reposito
 **Explore my work directly on GitHub:**
 - 🔗 Visit my [GitHub Profile](https://github.com/Ridhesh927) to see live contribution graphs, activity streams, and detailed repository analytics
 - 📈 My repositories showcase projects in **JavaScript, TypeScript, Python, and Java**
-- 🎯 Most active in **Full-Stack Development** and **AI/ML applications**
+- 🎯 Most active in **Full-Stack Development**, **Backend Systems**, and **AI/ML applications**
 
 **Quick Navigation:**
 - ⭐ [Starred Repositories](https://github.com/Ridhesh927?tab=stars)
@@ -107,8 +147,9 @@ Beyond my primary focus areas, I maintain a diverse portfolio of public reposito
 ### 🎯 Currently Working On
 
 * Advancing full-stack capabilities with MERN stack optimization
+* Building scalable backend systems with Spring Boot microservices
 * Exploring AI/ML integration in real-world applications
-* Building scalable backend systems and APIs
+* Developing intelligent systems with voice and multi-channel interfaces
 
 ---
 
