@@ -53,7 +53,7 @@ These repositories represent my most significant technical contributions, focuse
 | Project Name | Tech Stack | Description & Links |
 | :--- | :---: | :--- |
 | **[Eminence](https://github.com/Ridhesh927/Eminence)** | `MERN` | Dual-channel transport booking platform with Voice IVR helpline and intelligent driver allocation. |
-| **[GitFlow Analysis](https://github.com/Ridhesh927/GitFlow-Analysis)** | `Spring Boot, Java` | Advanced Git repository analyzer measuring code churn, contributor metrics, and development insights. |
+| **[GitFlow Analysis](https://github.com/Ridhesh927/GitHub-Analysis)** | `Spring Boot, Java` | Advanced Git repository analyzer measuring code churn, contributor metrics, and development insights. |
 | **[ProctorFlow](https://github.com/Ridhesh927/ProctorFlow)** | `TypeScript` | Advanced proctoring flow and examination management system. |
 | **[CrewFlow](https://github.com/Ridhesh927/CrewFlow)** | `JavaScript` | Comprehensive crew and task management workflow application. |
 | **[AI-ChatBot](https://github.com/Ridhesh927/AI-ChatBot)** | `TypeScript` | Intelligent conversational agent focused on seamless user interaction. |
