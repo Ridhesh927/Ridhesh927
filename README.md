@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Ridhesh927?tab=repositories">
+  <a href="https://github.com/Ridhesh927">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Full-Stack+Developer;AI+%26+Data+Science+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </p>
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/ridhesh-mahajan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Ridhesh927" target="_blank">
+  <a href="https://github.com/Ridhesh927?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/u/m4vWHsPWFN/" target="_blank">
