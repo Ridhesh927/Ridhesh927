@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="[https://github.com/Ridhesh927](https://github.com/Ridhesh927?tab=repositories)">
+  <a href="https://github.com/Ridhesh927?tab=repositories">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Full-Stack+Developer;AI+%26+Data+Science+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </p>
