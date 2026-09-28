@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-fawn-omega-75.vercel.app/" target="_blank">
+  <a href="https://ridheshmahajan.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ridhesh-mahajan/" target="_blank">
